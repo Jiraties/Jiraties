@@ -1,8 +1,10 @@
 ### Hi there 👋 </br>
-🔭 I’m currently working for SS Developers </br>
-📫 Discord: saikaaawastaken#8066 </br>
+🔭 I’m currently working as a team called SS Developers </br>
+📫 Studying at Assumption College Bangrak </br>
 🌱 I’m currently learning Javascript </br>
+📞 Contact me in discord: saikaaawastaken#8066
 
+Python Javascript CSS HTML
 <!--
 **Jiraties/Jiraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
