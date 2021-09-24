@@ -1,7 +1,7 @@
-### Hi there 👋
-🔭 I’m currently working for SS Developers
-📫 Discord: saikaaawastaken#8066
-🌱 I’m currently learning Javascript
+### Hi there 👋 </br>
+🔭 I’m currently working for SS Developers </br>
+📫 Discord: saikaaawastaken#8066 </br>
+🌱 I’m currently learning Javascript </br>
 
 <!--
 **Jiraties/Jiraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
