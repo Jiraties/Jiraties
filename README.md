@@ -1,10 +1,8 @@
 ### Hi there 👋 </br>
 🔭 I’m currently working as a team called SS Developers </br>
 📫 Studying at Assumption College Bangrak </br>
-🌱 I’m currently learning Javascript </br>
+🌱 I’m currently learning Advanced CSS and Sass </br>
 📞 Contact me in discord: saikaaawastaken#8066
-
-Python Javascript CSS HTML
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)
 
