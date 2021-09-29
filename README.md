@@ -6,7 +6,7 @@
 
 Python Javascript CSS HTML
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python) ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jiraties&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 <!--
