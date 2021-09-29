@@ -5,6 +5,8 @@
 📞 Contact me in discord: saikaaawastaken#8066
 
 Python Javascript CSS HTML
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jiraties&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 <!--
 **Jiraties/Jiraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
