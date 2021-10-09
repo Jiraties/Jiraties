@@ -4,7 +4,7 @@
 📫 Education     | Assumption College Bangrak Bangkok, Thailand </br>
 🎶 My Music Life | a Bb, Bass clarinetist in AC Band </br>
 🇹🇭 Where i'm from | I'm from thailand and fluent in Thai and English
-## Experience 😄 </br>
+## Experience 💼 </br>
 🌱 New at coding | Almost 1 year of experience </br>
 📚 Learning      | HTML and SCSS </br>
 📞 Contact Me    | Discord: saikaaawastaken#8066 </br>
