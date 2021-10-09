@@ -1,4 +1,4 @@
-### Hi there 👋 </br>
+# Hi there 👋 </br>
 🔭 I’m currently working as a SCSS and HTML Developer at SS Developers team</br>
 📫 Studying at Assumption College Bangrak </br>
 🎶 Also a Bb, Bass clarinetist in AC Band </br>
