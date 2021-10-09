@@ -1,6 +1,7 @@
 ### Hi there 👋 </br>
 🔭 I’m currently working as a SCSS and HTML Developer at SS Developers team</br>
 📫 Studying at Assumption College Bangrak </br>
+🎶 Also a Bb, Bass clarinetist in AC Band </br>
 🌱 I’m currently learning Advanced CSS and Sass </br>
 📞 Contact me in discord: saikaaawastaken#8066 </br>
 
