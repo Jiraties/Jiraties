@@ -1,9 +1,9 @@
-# Hi there 👋 </br>
+# Hi there, Welcome to my profile! 👋 </br>
 ## About Me 😄 </br>
 🔭 Team          | Currently working as a SCSS and HTML Developer at SS Developers team </br>
 📫 Education     | Assumption College Bangrak Bangkok, Thailand </br>
 🎶 My Music Life | a Bb, Bass clarinetist in AC Band </br>
-🇹🇭 Where i'm from | I'm from thailand and fluent in Thai and English
+🇹🇭  Where i'm from | I'm from thailand and fluent in Thai and English
 ## Experience 💼 </br>
 🌱 New at coding | Almost 1 year of experience </br>
 📚 Learning      | HTML and SCSS </br>
