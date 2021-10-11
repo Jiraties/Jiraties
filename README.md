@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jiraties&show_icons=true&theme=radical)
-![Most](https://github-readme-stats.vercel.app/api/top-langs/?username=jiraties&hide=TeX&layout=compact&theme=dark)
+![Most](https://github-readme-stats.vercel.app/api/top-langs/?username=jiraties&hide=TeX&layout=compact&theme=radical)
 <!--
 **Jiraties/Jiraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
