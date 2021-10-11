@@ -10,7 +10,7 @@
 📞 Contact Me -- Discord: saikaaawastaken#8066 </br>
 
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)!  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=Javascript) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jiraties&show_icons=true&theme=radical)
 ![Most](https://github-readme-stats.vercel.app/api/top-langs/?username=jiraties&hide=TeX&layout=compact&theme=radical)
