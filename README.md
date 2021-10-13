@@ -1,6 +1,6 @@
 # Hi there, Welcome to my profile! 👋 </br>
 ## About Me 😄 </br>
-🔭 Team -- Currently working as a SCSS and HTML Developer at [SS Developers team](https://github.com/SEN-SENSATION/SS-Developers) </br>
+🔭 Team -- Currently working as a SCSS and HTML Developer at [SS Developers team](https://ssdevelopers.xyz/) </br>
 📫 Currently Studying at -- Assumption College Bangrak Bangkok, Thailand </br>
 🎶 My Music Life -- a Bb, Bass clarinetist in AC Band </br>
 🇹🇭  Where i'm from -- I'm from Thailand and fluent in thai and english
