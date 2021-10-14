@@ -6,7 +6,7 @@
 🇹🇭 Where i'm from -- I'm from Thailand and fluent in thai and english
 ## Experience 💼 </br>
 🌱 New at coding -- Almost 1 year of experience </br>
-📚 Learning -- HTML and SCSS </br>
+📚 Learning -- React JS </br>
 📞 Contact Me -- Discord: saikaaawastaken#8066 </br>
 
 
