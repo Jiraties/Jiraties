@@ -6,7 +6,7 @@
 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/)
 ## Experience 💼 </br>
 🌱 New at coding -- Almost 1 year of experience </br>
-📚 Learning -- C++ For Unreal Engine </br>
+📚 Learning -- Complete Javascript Course </br>
 📞 Contact Me -- Discord: saikaaawastaken#8066 </br>
 
 ### Languages, Frameworks I use
