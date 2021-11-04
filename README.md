@@ -1,4 +1,4 @@
-# Happy Halloween 🎃 , Welcome to my profile! 👋 </br>
+# Hi there , Welcome to my profile! 👋 </br>
 ## About Me 😄 </br>
 🔭 Team -- Currently working as a Front-End Developer at [SS Developers team](https://ssdevelopers.xyz/) </br>
 📫 Currently Studying at -- [Assumption College](https://www.assumption.ac.th/) Bangrak Bangkok, Thailand </br>
