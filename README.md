@@ -5,8 +5,8 @@
 🇹🇭 Where i'm from -- I'm from Thailand , fluent in thai and english </br>
 <!-- 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
 ## Experience 💼 </br>
-🌱 New at coding -- Almost 1 year of experience </br>
-📚 Learning -- Complete Javascript Course </br>
+🌱 Beginer -- 3 Months into Web development </br>
+📚 Learning -- React </br>
 📞 Contact Me -- Discord: saikaaawastaken#8066 </br>
 
 ### Languages, Frameworks I use
