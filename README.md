@@ -1,6 +1,6 @@
 # Hi there , Welcome to my profile! 👋 </br>
 ## About Me 😄 </br>
-🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of websites, but I do know how to do backend too! </br>
+🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of websites, might learn backend someday. </br>
 🖥️ **Team** &mdash; I'm currently doing frontend using React for the [SS Developers team](https://ssdevelopers.xyz/) </br> 
 📖 **Currently Studying at** &mdash; [Assumption College](https://www.assumption.ac.th/) Bangrak Bangkok, Thailand </br>
 🌏 **Where I'm from** &mdash; I'm from Thailand , fluent in Thai and English </br>
@@ -8,7 +8,7 @@
 ## Experience 💼 </br>
 🌱 **Beginer** &mdash; 3 Months into Web development </br>
 📚 **Learning** &mdash; React (Hooks, Router, Redux, TS) </br>
-📞 **Contact Me** &mdash; Discord: saikaaawastaken#8066 </br>
+📞 **Contact Me** &mdash; Discord: 👈(⌒▽⌒)👉#8066 </br>
 
 ### Languages, Technology I use
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MONDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![SCSS](https://img.shields.io/badge/Sass-ff17fb?style=for-the-badge&logo=sass&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white) </br>
