@@ -1,12 +1,12 @@
 # Hi there , Welcome to my profile! 👋 </br>
 ## About Me 😄 </br>
 🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of websites, might learn backend someday. </br>
-🖥️ **Team** &mdash; I'm currently doing frontend using React for the [SS Developers team](https://ssdevelopers.xyz/) </br> 
+🖥️ **Team** &mdash; I'm currently doing frontend using React for the [SS Developers team](https://ssdevelopers.xyz/) (as a hobby) </br> 
 📖 **Currently Studying at** &mdash; [Assumption College](https://www.assumption.ac.th/) Bangrak Bangkok, Thailand </br>
 🌏 **Where I'm from** &mdash; I'm from Thailand , fluent in Thai and English </br>
 <!-- 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
 ## Experience 💼 </br>
-🌱 **Beginer** &mdash; 3 Months into Web development </br>
+🌱 **Beginer** &mdash; Half a year into Web development </br>
 📚 **Learning** &mdash; React (Hooks, Router, Redux, TS) </br>
 📞 **Contact Me** &mdash; Discord: 👈(⌒▽⌒)👉#8066 </br>
 
