@@ -3,7 +3,7 @@
 🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of websites, might learn backend someday. </br>
 🖥️ **Team** &mdash; I'm currently doing frontend using React for the [SS Developers team](https://ssdevelopers.xyz/) (as a hobby) </br> 
 📖 **Currently Studying at** &mdash; [Assumption College](https://www.assumption.ac.th/) Bangrak Bangkok, Thailand </br>
-🌏 **Where I'm from** &mdash; I'm from Thailand , fluent in Thai and English </br>
+🇹🇭 **Where I'm from** &mdash; I'm from Thailand , fluent in Thai and English </br>
 <!-- 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
 ## Experience 💼 </br>
 🌱 **Beginer** &mdash; Half a year into Web development </br>
