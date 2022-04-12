@@ -1,5 +1,5 @@
 # Hi there , Welcome to my profile! 👋 </br>
-## About Me 😄 </br>
+## About Me 😄  </br>
 🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of websites, might learn backend someday. </br>
 🖥️ **Team** &mdash; I'm currently doing frontend using React for the [SS Developers team](https://ssdevelopers.xyz/) (as a hobby) </br> 
 📖 **Currently Studying at** &mdash; [Assumption College](https://www.assumption.ac.th/) Bangrak Bangkok, Thailand </br>
