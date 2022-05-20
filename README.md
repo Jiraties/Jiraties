@@ -7,7 +7,7 @@
 <!-- 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
 ## Experience 💼 </br>
 🌱 **Beginer** &mdash; Half a year into Web development, Very new in Cross-Platform App Development </br>
-🧩 **I'm Working On** &mdash; [Todos by SS Developers](https://github.com/SS-Developers/Todos) </br>
+🧩 **I'm Working On** &mdash; Learning nodeJS </br>
 📞 **Contact Me** &mdash; Discord: 👈(⌒▽⌒)👉#8066 </br>
 
 ### Languages, Technologies I use
