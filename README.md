@@ -2,12 +2,12 @@
 ## About Me 😄  </br>
 🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of apps and websites, might learn backend someday. </br>
 🖥️ **Team** &mdash; I'm currently doing frontend using Flutter and React for the [SS Developers team](https://github.com/SS-Developers) (as a hobby) </br> 
-📖 **Currently Studying at** &mdash; [Assumption College]([https://www.assumption.ac.th/](https://www.google.com/search?q=assumption+college+bangkok)) Bangrak Bangkok, Thailand </br>
+📖 **Currently Studying at** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) Bangrak Bangkok, Thailand </br>
 🇹🇭 **Where I'm from** &mdash; I'm from Bangkok, Thailand , fluent in Thai and English </br>
 <!-- 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
 ## Experience 💼 </br>
 🌱 **Beginer** &mdash; Half a year into Web development, Very new in Cross-Platform App Development </br>
-🧩 **I'm Working On** &mdash; Learning nodeJS </br>
+🧩 **I'm Working On** &mdash; Remaking Portals </br>
 📞 **Contact Me** &mdash; Discord: 👈(⌒▽⌒)👉#8066 </br>
 
 ### Languages, Technologies I use
