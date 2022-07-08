@@ -1,18 +1,19 @@
 # Hi there , Welcome to my profile! 👋 </br>
-## About Me 😄  </br>
-🧑‍💻 **What I Do** &mdash; I mainly focus on the frontend of apps and websites, might learn backend someday. </br>
-🖥️ **Team** &mdash; I'm currently doing frontend using Flutter and React for the [SS Developers team](https://github.com/SS-Developers) (as a hobby) </br> 
+
+## About Me 😄 </br>
+
+🧑‍💻 **What I Do** &mdash; I am a fullstack developer that mainly focus on frontend of web applications </br>
+🖥️ **Team** &mdash; Lead Frontend Engineer at [SS Developers](https://github.com/SS-Developers) (a hobyist developer group) </br>
 📖 **Currently Studying at** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) Bangrak Bangkok, Thailand </br>
-🇹🇭 **Where I'm from** &mdash; I'm from Bangkok, Thailand , fluent in Thai and English </br>
-<!-- 🌐 My Website -- This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
+🌏 **Where I'm from** &mdash; Born and raised in Bangkok, Thailand. Fluent in English and Thai </br>
+
+<!-- 🌐 My Website &mdash; This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
+
 ## Experience 💼 </br>
-🌱 **Beginer** &mdash; Half a year into Web development, Very new in Cross-Platform App Development </br>
-🧩 **I'm Working On** &mdash; Coding MyWebsite </br>
-📞 **Contact Me** &mdash; Discord: 👈(⌒▽⌒)👉#8066 </br>
 
-### Languages, Technologies I use
-![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![flutter](https://img.shields.io/badge/Flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=white) ![dart](https://img.shields.io/badge/Dart-00C7AE?style=for-the-badge&logo=dart&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![SCSS](https://img.shields.io/badge/Sass-ff17fb?style=for-the-badge&logo=sass&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white) </br>
-
+🌱 **Intermediate** &mdash; A year into frontend development </br>
+🧩 **I'm Working On** &mdash; Developing MyWebsite and Learning Backend </br>
+📞 **Contact Me** &mdash; Discord: jiraties\_#6144 </br>
 
 <!--
 **Jiraties/Jiraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
