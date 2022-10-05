@@ -6,8 +6,7 @@
 🖥️ **Team** &mdash; Lead Frontend Engineer at [SS Developers](https://github.com/SS-Developers) (a hobyist developer group) </br>
 📖 **Currently Studying at** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) Bangrak Bangkok, Thailand </br>
 🌏 **Where I'm from** &mdash; Born and raised in Bangkok, Thailand. Fluent in English and Thai </br>
-
-<!-- 🌐 My Website &mdash; This is still in development but [here is it anyways!](https://ssdevelopers.xyz/Jirat_Chutrakul/) -->
+🌐 **Website** &mdash; [Click to visit!](https://jiratchutrakul.com)
 
 ## Experience 💼 </br>
 
