@@ -11,7 +11,7 @@
 ## Experience 💼 </br>
 
 🌱 **Experience** &mdash; Two years doing frontend work </br>
-🧩 **I'm Working On** &mdash; SymptoSense (ไกล้หมอ) a React Native app for STEM Project </br>
+🧩 **I'm Working On** &mdash; SymptoSense (ใกล้หมอ) a React Native app for STEM Project </br>
 📞 **Contact Me** &mdash; Discord: jiraties\_#6144 </br>
 
 <!--
