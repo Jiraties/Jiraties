@@ -2,15 +2,15 @@
 
 ## About Me 😄 </br>
 
-🧑‍💻 **What I Do** &mdash; Frontend Developer working on React and React Native projects </br>
-📖 **Currently Studying at** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) Bangrak Bangkok, Thailand </br>
+🧑‍💻 **What I Do** &mdash; Fullstack Developer that mainly focuses on frontend development </br>
+📖 **University (Starting Aug)** &mdash; [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th) </br>
+📖 **High School** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) </br>
 🌏 **Where I'm from** &mdash; Born and raised in Bangkok, Thailand. Fluent in English and Thai </br>
-🌐 **Website** &mdash; Still needs more work to be done - [jiratchutrakul.com](https://jiratchutrakul.com)
 
 ## Experience 💼 </br>
 
-🌱 **Experience** &mdash; Two years doing frontend work </br>
-🧩 **I'm Working On** &mdash; SymptoSense (ใกล้หมอ) a React Native app for STEM Project </br>
+🌱 **Experience** &mdash; Been coding since 2021 </br>
+🧩 **I'm Working On** &mdash; Hostel booking management systems </br>
 📞 **Contact Me** &mdash; Discord: jiraties\_#6144 </br>
 
 <!--
