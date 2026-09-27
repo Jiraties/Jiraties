@@ -2,15 +2,15 @@
 
 ## About Me 😄 </br>
 
-🧑‍💻 **What I Do** &mdash; Fullstack Developer that mainly focuses on frontend development </br>
-📖 **University (Starting Aug)** &mdash; [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th) </br>
+🧑‍💻 **What I Do** &mdash; Fullstack Development </br>
+📖 **University** &mdash; [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th) </br>
 📖 **High School** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) </br>
 🌏 **Where I'm from** &mdash; Born and raised in Bangkok, Thailand. Fluent in English and Thai </br>
 
 ## Experience 💼 </br>
 
 🌱 **Experience** &mdash; Been coding since 2021 </br>
-🧩 **I'm Working On** &mdash; Hostel booking management systems </br>
+🧩 **I'm Working On** &mdash; HostelFlow and surviving uni </br>
 📞 **Contact Me** &mdash; Discord: jiraties\_#6144 </br>
 
 <!--
