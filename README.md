@@ -6,12 +6,14 @@ I spend most of my time building software, shipping products, joining hackathons
 
 ## About Me 😄
 
-🧑‍💻 **What I Do** — Full-stack software development and product engineering  
-🎓 **University** — Information & Communication Engineering (ICE), [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th)  
-🏫 **High School** — Assumption College Bangkok  
-🌏 **Based In** — Bangkok, Thailand 🇹🇭  
-🗣️ **Languages** — Thai & English  
-🌱 **Building Since** — 2021, from small projects to production software  
+- 🧑‍💻 **What I Do** — Full-stack software development and product engineering
+  
+- 🎓 **University** — Information & Communication Engineering (ICE), [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th)
+  
+- 🏫 **High School** — Assumption College Bangkok  
+- 🌏 **Based In** — Bangkok, Thailand 🇹🇭  
+- 🗣️ **Languages** — Thai & English  
+- 🌱 **Building Since** — 2021, from small projects to production software  
 
 ## What I'm Working On 🚀
 
@@ -22,17 +24,6 @@ It has already handled **1,000+ real bookings**, helping streamline day-to-day h
 Built with **React, Node.js, Express, MongoDB**.
 
 And yes, I'm also currently surviving university.
-## A Few Highlights 🏆
-
-- Founder and developer of **HostelFlow**
-- CA-ASE — **1st Runner-Up**
-- CEDT Hackathon — **Semi-Finalist**
-- AC Creating Business — **Winner**
-- SPU GreenTech — **1st Runner-Up**
-
-## Beyond Code 🌏
-
-I also enjoy hackathons, startups, mountain biking, hiking, investing, and occasionally building things that started as "this would be cool" and somehow became real software.
 
 ## Contact Me 📬
 
