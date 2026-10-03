@@ -21,11 +21,7 @@ I spend most of my time building software, shipping products, joining hackathons
 
 It has already handled **1,000+ real bookings**, helping streamline day-to-day hostel operations including reservations, guest management, payments, and staff workflows.
 
-Built with **React, Node.js, Express, MongoDB**.
-
-And yes, I'm also currently surviving university.
-
 ## Contact Me 📬
 
-📪 **Email** — `jiratchutrakul@gmail.com`
+✉️ **Email** — `jiratchutrakul@gmail.com`
 
