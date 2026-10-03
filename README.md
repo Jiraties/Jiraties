@@ -1,29 +1,40 @@
-# Hi there , Welcome to my profile! 👋 </br>
+# Hey, I'm Jirat — but everyone calls me Bogie 👋
 
-## About Me 😄 </br>
+I'm a Computer Engineering student at Chulalongkorn University and a full-stack developer based in Bangkok.
 
-🧑‍💻 **What I Do** &mdash; Fullstack Development </br>
-📖 **University** &mdash; [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th) </br>
-📖 **High School** &mdash; [Assumption College](https://www.google.com/search?q=assumption+college+bangkok) </br>
-🌏 **Where I'm from** &mdash; Born and raised in Bangkok, Thailand. Fluent in English and Thai </br>
+I spend most of my time building software, shipping products, joining hackathons, and occasionally remembering I also have university work to do.
 
-## Experience 💼 </br>
+## About Me 😄
 
-🌱 **Experience** &mdash; Been coding since 2021 </br>
-🧩 **I'm Working On** &mdash; HostelFlow and surviving uni </br>
-📞 **Contact Me** &mdash; Discord: jiraties\_#6144 </br>
+🧑‍💻 **What I Do** — Full-stack software development and product engineering  
+🎓 **University** — Information & Communication Engineering (ICE), [ISE Chulalongkorn University](http://www.ise.eng.chula.ac.th)  
+🏫 **High School** — Assumption College Bangkok  
+🌏 **Based In** — Bangkok, Thailand 🇹🇭  
+🗣️ **Languages** — Thai & English  
+🌱 **Building Since** — 2021, from small projects to production software  
 
-<!--
-**Jiraties/Jiraties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Working On 🚀
 
-Here are some ideas to get you started:
+🏨 **HostelFlow** — A full-stack property management system built for hostel operations and currently used in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It has already handled **1,000+ real bookings**, helping streamline day-to-day hostel operations including reservations, guest management, payments, and staff workflows.
+
+Built with **React, Node.js, Express, MongoDB**.
+
+And yes, I'm also currently surviving university.
+## A Few Highlights 🏆
+
+- Founder and developer of **HostelFlow**
+- CA-ASE — **1st Runner-Up**
+- CEDT Hackathon — **Semi-Finalist**
+- AC Creating Business — **Winner**
+- SPU GreenTech — **1st Runner-Up**
+
+## Beyond Code 🌏
+
+I also enjoy hackathons, startups, mountain biking, hiking, investing, and occasionally building things that started as "this would be cool" and somehow became real software.
+
+## Contact Me 📬
+
+📪 **Email** — `jiratchutrakul@gmail.com`
+
