@@ -1,6 +1,6 @@
 # Hey, I'm Jirat — but everyone calls me Bogie 👋
 
-I'm a Computer Engineering student at Chulalongkorn University and a full-stack developer based in Bangkok.
+I'm a Information and Communications Engineering student at Chulalongkorn University and a full-stack developer based in Bangkok.
 
 I spend most of my time building software, shipping products, joining hackathons, and occasionally remembering I also have university work to do.
 
